@@ -75,7 +75,7 @@ export default function LoginCard() {
                 variant="contained"
                 sx={{ backgroundColor: "#000000", textTransform: "none" }}
               >
-                Login
+                Sign In With Google
               </Button>
             </div>
             <div style={{ paddingTop: 12 }}>
